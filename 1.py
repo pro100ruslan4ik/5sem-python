@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt  
-import matplotlib
-matplotlib.use('TkAgg')
 import numpy as np  
 
 x = np.linspace(-10, 10, 4000)
