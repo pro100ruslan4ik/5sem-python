@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 x1 = np.linspace(-10, 10, 4000)
 y_positive = np.sqrt(x1**2 - 1)
 y_negative = -np.sqrt(x1**2 - 1)
